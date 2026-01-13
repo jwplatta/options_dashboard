@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(env)",
+      "mcp__obsidian-mcp__get_active_vault",
+      "mcp__obsidian-mcp__list_directory",
+      "mcp__obsidian-mcp__simple_search",
+      "mcp__obsidian-mcp__create_file"
+    ]
+  }
+}
